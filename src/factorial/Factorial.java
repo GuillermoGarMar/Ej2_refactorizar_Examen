@@ -14,7 +14,7 @@ public class Factorial {
         Mostrar(auxn2);
 
     }
-
+    //creo otra clase para mostrar el valor
     public static void Mostrar(int x) {
         System.out.println(x);
     }
@@ -26,7 +26,7 @@ public class Factorial {
         int num2 = 0;
 
         int i = 0;
-        //creo una clase donde muevo el if
+        //creo una clase donde muevo el if y formateo
         Condicion(num1, num2, i);
 
     }
